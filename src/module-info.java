@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kimdongju
+ *
+ */
+module javajungsuck {
+}
